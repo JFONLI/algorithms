@@ -1,4 +1,5 @@
 # HW1 Magical Elements
+[Problem](Problem.md)
 ## Pseudo code:
 ```
 void combine(int m, int k, vector<int>combinations)
